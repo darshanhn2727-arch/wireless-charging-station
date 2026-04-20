@@ -35,7 +35,7 @@ The ultrasonic sensors measure the distance between the station and the vehicle.
 
 ## Circuit Diagram
 ![Block Diagram](block_diagram_wireless_vehicle.png)
-![Hardware Circuit] (Hardware_setup.png)
+![Hardware setup](Hardware_setup.png)
 
 ## Applications
 - Smart parking systems
