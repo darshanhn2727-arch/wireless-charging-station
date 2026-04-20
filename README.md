@@ -33,6 +33,10 @@ The ultrasonic sensors measure the distance between the station and the vehicle.
 3. Power the Arduino
 4. Observe LCD output based on vehicle placement
 
+## Circuit Diagram
+![Block Diagram](block_diagram_wireless_vehicle.png)
+![Hardware Circuit] (Hardware_setup.png)
+
 ## Applications
 - Smart parking systems
 - Wireless EV charging stations
